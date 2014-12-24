@@ -1,0 +1,1 @@
+cmd_/home/cook/uvcvideo-r104/trunk/uvcvideo.ko := ld -r -m elf_i386 -T /usr/src/linux-3.12.30-1-MANJARO/scripts/module-common.lds --build-id  -o /home/cook/uvcvideo-r104/trunk/uvcvideo.ko /home/cook/uvcvideo-r104/trunk/uvcvideo.o /home/cook/uvcvideo-r104/trunk/uvcvideo.mod.o
