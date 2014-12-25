@@ -21,6 +21,7 @@
 #include <linux/vmalloc.h>
 #include <linux/wait.h>
 #include <linux/mm.h>
+#include <linux/slab.h>
 #include <asm/atomic.h>
 
 #include "uvcvideo.h"

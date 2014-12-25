@@ -37,6 +37,7 @@
 #include <linux/videodev2.h>
 #include <linux/vmalloc.h>
 #include <linux/wait.h>
+#include <linux/slab.h>
 #include <asm/atomic.h>
 
 #if LINUX_VERSION_CODE > KERNEL_VERSION(2,6,15)

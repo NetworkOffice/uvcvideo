@@ -1,1 +1,1 @@
-cmd_/home/cook/uvcvideo-r104/trunk/uvcvideo.o := ld -m elf_i386   -r -o /home/cook/uvcvideo-r104/trunk/uvcvideo.o /home/cook/uvcvideo-r104/trunk/uvc_driver.o /home/cook/uvcvideo-r104/trunk/uvc_queue.o /home/cook/uvcvideo-r104/trunk/uvc_v4l2.o /home/cook/uvcvideo-r104/trunk/uvc_video.o /home/cook/uvcvideo-r104/trunk/uvc_ctrl.o 
+cmd_/home/yxg/uvcvideo/uvcvideo.o := ld -m elf_i386   -r -o /home/yxg/uvcvideo/uvcvideo.o /home/yxg/uvcvideo/uvc_driver.o /home/yxg/uvcvideo/uvc_queue.o /home/yxg/uvcvideo/uvc_v4l2.o /home/yxg/uvcvideo/uvc_video.o /home/yxg/uvcvideo/uvc_ctrl.o 

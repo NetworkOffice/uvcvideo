@@ -1,2 +1,2 @@
-/home/cook/uvcvideo-r104/trunk/uvcvideo.ko
-/home/cook/uvcvideo-r104/trunk/uvc_driver.o /home/cook/uvcvideo-r104/trunk/uvc_queue.o /home/cook/uvcvideo-r104/trunk/uvc_v4l2.o /home/cook/uvcvideo-r104/trunk/uvc_video.o /home/cook/uvcvideo-r104/trunk/uvc_ctrl.o
+/home/yxg/uvcvideo/uvcvideo.ko
+/home/yxg/uvcvideo/uvc_driver.o /home/yxg/uvcvideo/uvc_queue.o /home/yxg/uvcvideo/uvc_v4l2.o /home/yxg/uvcvideo/uvc_video.o /home/yxg/uvcvideo/uvc_ctrl.o
